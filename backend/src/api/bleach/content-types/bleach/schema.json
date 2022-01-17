@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "bleachs",
+  "info": {
+    "singularName": "bleach",
+    "pluralName": "bleachs",
+    "displayName": "bleach",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nome": {
+      "type": "string"
+    }
+  }
+}
